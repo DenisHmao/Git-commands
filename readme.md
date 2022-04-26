@@ -579,3 +579,13 @@ git commit -am "Navigation fixs"   # сделать коммит
 *.css  diff=css
 *.scss diff=css
 ```
+
+## `.gitattributes`
+
+```
+* text=auto
+
+*.html diff=html
+*.css  diff=css
+*.scss diff=css
+```
